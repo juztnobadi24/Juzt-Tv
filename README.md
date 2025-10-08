@@ -1,4 +1,5 @@
 # Juzt-Tv
+_IPTV with Free to watch TV Channels and free to listen Radio Stations_
 
 Features: 
 * 📺 350+ TV Channels
@@ -7,7 +8,7 @@ Features:
 * 🔘 Single Button to filter by category or genre
 * ⭐ Add channels to Favorites
 * 🔲 Single Button to switch Radio/TV
-* 📨 Tap the Messenger Icon to send us a message or any request (We can advertise your page, product, services or even the name of your business)
+* 📨 Tap the Messenger Icon to send us a message or any request
   
 # Note
 **For Phone and PC:**
@@ -31,3 +32,14 @@ _
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/8b8e9475-d94b-4ae1-834e-a1c8721bd850" />
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/913e0cea-98c1-4d4d-8a35-fc23aa59ad10" />
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/8ed6cecb-3321-4451-a6ff-a416e0b58b03" />
+
+#Requests
+
+You can message us your favorite channels or even send us your own M3U playlist — we’ll be happy to add them to our IPTV service!
+We can also advertise your Page, Products, Services or even your Business - just send us a message or send your business image
+
+#
+✨ Our IPTV is completely free — anyone can watch or listen anytime!
+💖 If you’d like to support our efforts, you can also send a donation to help us keep the service running.
+
+juzt-tv 2025
