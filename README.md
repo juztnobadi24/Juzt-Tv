@@ -1,29 +1,29 @@
 # Juzt-Tv
 
 Features: 
-* 📺 350+ TV Channels
-* 📻 28 Radio Stations
-* 💡 Stylish Sidebar
-* 🔘 Single Button to filter by category or genre
-* ⭐ Add channels to Favorites
-* 🔲 Single Button to switch Radio/TV
-* 📨 Tap the Messenger Icon to send us a message or any request (We can advertise your page, product, services or even the name of your business)
+ 📺  350+ TV Channels
+ 📻  28 Radio Stations
+ 💡  Stylish Sidebar
+ 🔘  Single Button to filter by category or genre
+ ⭐  Add channels to Favorites
+ 🔲  Single Button to switch Radio/TV
+ 📨  Tap the Messenger Icon to send us a message or any request (We can advertise your page, product, services or even the name of your business)
   
 # Note
-For Phone and PC:
-* Single click Enter or tap anywhere to show Channel List
+**For Phone and PC:**
+_* Single click Enter or tap anywhere to show Channel List
 * Double click Enter or double tap anywhere to enable/exit Full Screen
-* Click Star to add channels to Favorites
+* Click Star to add channels to Favorites_
 
-For TV Remote:
-* Single click Enter/OK to show Channel List
+**For TV Remote:**
+_* Single click Enter/OK to show Channel List
 * Double click Enter/OK to enable/exit Full Screen
 * Navigate Channel List using Channel Button +/- on TV Remote then Click Enter/OK to play selected channel
+_
 
+# Website
 
-# Website Link
-
-- [Juzt-TV](https://juzt-tv.vercel.app) 
+🌐 [Juzt-TV](https://juzt-tv.vercel.app) 
 
 # Screenshots
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2367cae7-b6e9-458d-8c0c-2ee205ee7887" />
