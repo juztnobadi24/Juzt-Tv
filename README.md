@@ -1,13 +1,13 @@
 # Juzt-Tv
 
 Features: 
- 📺  350+ TV Channels
- 📻  28 Radio Stations
- 💡  Stylish Sidebar
- 🔘  Single Button to filter by category or genre
- ⭐  Add channels to Favorites
- 🔲  Single Button to switch Radio/TV
- 📨  Tap the Messenger Icon to send us a message or any request (We can advertise your page, product, services or even the name of your business)
+* 📺 350+ TV Channels
+* 📻 28 Radio Stations
+* 💡 Stylish Sidebar
+* 🔘 Single Button to filter by category or genre
+* ⭐ Add channels to Favorites
+* 🔲 Single Button to switch Radio/TV
+* 📨 Tap the Messenger Icon to send us a message or any request (We can advertise your page, product, services or even the name of your business)
   
 # Note
 **For Phone and PC:**
