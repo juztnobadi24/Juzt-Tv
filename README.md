@@ -22,10 +22,10 @@ _* Single click Enter/OK to show Channel List
 * Navigate Channel List using Channel Button +/- on TV Remote then Click Enter/OK to play selected channel
 _
 
-#Requests
+# Requests
 
-You can message us your favorite channels or even send us your own M3U playlist — we’ll be happy to add them to our IPTV service!
-We can also advertise your Page, Products, Services or even your Business - just send us a message or send your business image
+☑️ You can message us your favorite channels or even send us your own M3U playlist — we’ll be happy to add them to our IPTV service!
+☑️ We can also advertise your Page, Products, Services or even your Business - just send us a message or send your business image
 
 # Website
 
