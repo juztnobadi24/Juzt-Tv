@@ -12,12 +12,12 @@ Features:
   
 # Note
 **For Phone and PC:**
-_* Single click Enter or tap anywhere to show Channel List
+* _Single click Enter or tap anywhere to show/hide Channel List
 * Double click Enter or double tap anywhere to enable/exit Full Screen
-* Click Star to add channels to Favorites_
-
+* Click Star to add channels to Favorites
+_
 **For TV Remote:**
-_* Single click Enter/OK to show Channel List
+_* Single click Enter/OK to show/hide Channel List
 * Double click Enter/OK to enable/exit Full Screen
 * Navigate Channel List using Channel Button +/- on TV Remote then Click Enter/OK to play selected channel
 _
