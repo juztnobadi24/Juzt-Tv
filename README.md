@@ -12,15 +12,15 @@ Features:
   
 # Note
 **For Phone and PC:**
-* _Single click Enter or tap anywhere to show/hide Channel List
-* Double click Enter or double tap anywhere to enable/exit Full Screen
-* Click Star to add channels to Favorites
-_
+* Single click Enter or tap anywhere to **show/hide Channel List**
+* Double click Enter or double tap anywhere to **enable/exit Full Screen**
+* Click Star to add channels to **Favorites**
+
 **For TV Remote:**
-_* Single click Enter/OK to show/hide Channel List
+* Single click Enter/OK to show/hide Channel List
 * Double click Enter/OK to enable/exit Full Screen
 * Navigate Channel List using Channel Button +/- on TV Remote then Click Enter/OK to play selected channel
-_
+
 
 # Screenshots
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2367cae7-b6e9-458d-8c0c-2ee205ee7887" />
@@ -32,12 +32,12 @@ _
 # Requests
 
 * ☑️ You can message us your favorite channels or even send us your own M3U playlist — we’ll be happy to add them to our IPTV service!
-* ☑️ We can also advertise your Page, Products, Services or even your Business - just send us a message or send your business image
+* ☑️ We can also **advertise your Page, Products, Services or even your Business** - just send us a message or send your business image
 
 # Website
 
 🌐 [Juzt-TV](https://juzt-tv.vercel.app) 
 
 #
-* ✨ Our IPTV is completely free — anyone can watch or listen anytime!
-* 💖 If you’d like to support our efforts, you can also send a donation to help us keep the service running.
+* ✨ Our IPTV is completely **free** — anyone can watch or listen anytime!
+* 💖 If you’d like to **support** our efforts, you can also send a donation to help us keep the service running.
