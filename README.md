@@ -41,5 +41,3 @@ _
 #
 * ✨ Our IPTV is completely free — anyone can watch or listen anytime!
 * 💖 If you’d like to support our efforts, you can also send a donation to help us keep the service running.
-
-juzt-tv 2025
