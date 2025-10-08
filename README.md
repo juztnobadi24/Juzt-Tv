@@ -22,7 +22,8 @@ For TV Remote:
 
 
 # Website Link
-https//:juzt-tv.vercel.app
+
+- [Juzt-TV](https://juzt-tv.vercel.app) 
 
 # Screenshots
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2367cae7-b6e9-458d-8c0c-2ee205ee7887" />
