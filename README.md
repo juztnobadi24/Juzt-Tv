@@ -22,15 +22,6 @@ _* Single click Enter/OK to show Channel List
 * Navigate Channel List using Channel Button +/- on TV Remote then Click Enter/OK to play selected channel
 _
 
-# Requests
-
-☑️ You can message us your favorite channels or even send us your own M3U playlist — we’ll be happy to add them to our IPTV service!
-☑️ We can also advertise your Page, Products, Services or even your Business - just send us a message or send your business image
-
-# Website
-
-🌐 [Juzt-TV](https://juzt-tv.vercel.app) 
-
 # Screenshots
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2367cae7-b6e9-458d-8c0c-2ee205ee7887" />
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/167bdca7-743e-4ef9-b441-bf7a2e8b480c" />
@@ -38,6 +29,14 @@ _
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/913e0cea-98c1-4d4d-8a35-fc23aa59ad10" />
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/8ed6cecb-3321-4451-a6ff-a416e0b58b03" />
 
+# Requests
+
+* ☑️ You can message us your favorite channels or even send us your own M3U playlist — we’ll be happy to add them to our IPTV service!
+* ☑️ We can also advertise your Page, Products, Services or even your Business - just send us a message or send your business image
+
+# Website
+
+🌐 [Juzt-TV](https://juzt-tv.vercel.app) 
 
 #
 * ✨ Our IPTV is completely free — anyone can watch or listen anytime!
