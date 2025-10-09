@@ -32,11 +32,13 @@ Features:
 
 
 # Screenshots
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/a6ef2bac-0a57-466e-b1d7-144cf58b7a39" />
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/cb0a0600-e239-4a07-a321-e6c4405cb7a8" />
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/167bdca7-743e-4ef9-b441-bf7a2e8b480c" />
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/8b8e9475-d94b-4ae1-834e-a1c8721bd850" />
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/913e0cea-98c1-4d4d-8a35-fc23aa59ad10" />
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/8ed6cecb-3321-4451-a6ff-a416e0b58b03" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/e0e8e58f-41a1-44a8-b6db-fa9bb17a2a6f" />
+
 
 # Requests
 
