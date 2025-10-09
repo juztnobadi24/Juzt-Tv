@@ -10,16 +10,25 @@ Features:
 * 🔲 Single Button to switch Radio/TV
 * 📨 Tap the Messenger Icon to send us a message or any request
   
-# Note
-**For Phone and PC:**
-* Single click Enter or tap anywhere to **show/hide Channel List**
-* Double click Enter or double tap anywhere to **enable/exit Full Screen**
+# Controls
+**For Phone:**
+* Single tap anywhere to **show/hide Channel List**
+* Double tap anywhere to **enable/exit Full Screen**
+* Tap on Channels to Play
+* Tap Star to add channels to **Favorites**
+
+**For Laptop or PC:**
+* Single click Enter to **show/hide Channel List**
+* Double click Enter to **enable/exit Full Screen**
+* Click Up/Down button to navigate channels
+* CLick Enter to play selected/highlighted channel
 * Click Star to add channels to **Favorites**
 
 **For TV Remote:**
 * Single click Enter/OK to show/hide Channel List
 * Double click Enter/OK to enable/exit Full Screen
-* Navigate Channel List using Channel Button +/- on TV Remote then Click Enter/OK to play selected channel
+* Click TV Remote Channel Button +/- to navigate channels (Channel list must be visible)
+* CLick Enter/Ok to play selected/highlighted channel
 
 
 # Screenshots
