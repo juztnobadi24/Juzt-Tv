@@ -3,7 +3,7 @@ _IPTV with Free to watch TV Channels and free to listen Radio Stations_
 
 Features: 
 * 📺 350+ TV Channels
-* 📻 28 Radio Stations
+* 📻 37 Radio Stations
 * 💡 Stylish Sidebar
 * 🔘 Single Button to filter by category or genre
 * ⭐ Add channels to Favorites
